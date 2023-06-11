@@ -1,0 +1,5 @@
+com\spring\boot\validation\repository\UserRepository.class
+com\spring\boot\validation\model\User.class
+com\spring\boot\validation\controller\UserController.class
+com\spring\boot\validation\service\UserService.class
+com\spring\boot\validation\ValidationApplication.class
